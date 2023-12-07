@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on **make something**
 - 📫 How to reach me **jiujingz05@gmail.com**
+- ☄ I want to be able to use **Python**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
