@@ -1,6 +1,6 @@
 ### Hello
 
-<h1 align="center">Hi 👋, I’m JuA9r</h1>
+<h1 align="center">Hello 👋, I’m JuA9r</h1>
 
 - 👀 I’m interested in **create game**
 - 🌱 I’m currently learning **Python**
