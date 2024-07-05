@@ -19,7 +19,7 @@
 <a href="https://www.java.com/ja/" target="_blank" rel="noreferrer">
     <img src="https://github.com/JuA9r/JuA9r/assets/152825107/f0fd5c05-6a4b-4ab1-b73d-51e278eff8ee"
       alt="java" width="50" height="50">
-<a href="https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E"　target="_blank" rel="noreferrer">
+<a href="https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E" target="_blank" rel="noreferrer">
   <img scr="https://github.com/JuA9r/JuA9r/assets/152825107/545fbb5e-23f9-4799-bbf5-32c330c70cab"
-    alt="C language"  width="50" height="50">
+    alt="C language" width="50" height="50">
 </p>
