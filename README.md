@@ -2,11 +2,11 @@
 
 <h1 align="center">Hello 👋, I’m JuA9r</h1>
 
-- 👀 I’m interested in **create game**
-- 🌱 I’m currently learning **Python**
+- 👀 I’m interested in **create game and application**
+- 🌱 I’m currently learning **Python & Java & C Language**
 - 💞️ I’m looking to collaborate on **make something**
 - 📫 How to reach me **jiujingz05@gmail.com**
-- ☄ I want to be able to use **Python**
+- ☄ I want to be able to use **Python and Java and C Language**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
